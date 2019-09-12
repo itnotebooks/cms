@@ -12,8 +12,11 @@ build/
 develop-eggs/
 dist/
 downloads/
+migrations/
 eggs/
 .eggs/
+.idea/
+data/static/
 lib/
 lib64/
 parts/
@@ -24,6 +27,7 @@ wheels/
 .installed.cfg
 *.egg
 MANIFEST
+*.pid
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -53,6 +57,7 @@ coverage.xml
 
 # Django stuff:
 *.log
+config.py
 local_settings.py
 db.sqlite3
 
