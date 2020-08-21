@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Author         : Eric Winn
 # @Email          : eng.eric.winn@gmail.com
