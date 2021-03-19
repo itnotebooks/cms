@@ -5,7 +5,7 @@ Django==2.2.5
 django-bootstrap3==11.1.0
 django-ranged-response==0.2.0
 django-simple-captcha==0.5.12
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 djangorestframework-bulk==0.2.1
 google-auth==1.6.3
 gunicorn==19.9.0
